@@ -1,27 +1,27 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: About me
+description: About me page
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2020-04-28
     changefreq: weekly
 ---
-## About our Site
+## About me
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+My wife and I moved to France from London with our five young children in 1994.  In London we were owners and directors of various companies, in finance and also in wine, manufacturing and construction industries.  We were in search of a quieter life in which to bring up our children, however, by taking up a previous teaching diploma, I became an English teacher teaching all levels and ages.  For the last 17 years I’ve taught classes at the [University de Savoie](https://www.univ-smb.fr/en), which have included TOEIC preparation, and through kholles, or colles, in the Preparatory class (cram school) at [Lycée Berthollet](http://www.ac-grenoble.fr/lycee/berthollet.annecy/).  Since 2011 I’ve increased my teaching extensively in numerous companies and in doing translations, translating at solicitor’s offices and live translations at court.  
 
-### Content is Imortant
+
+### My family
 <div class="box">
   <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
+  The PJ's are awesome
   </p>
 </div>
 
 <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+Adn especially PJ!
