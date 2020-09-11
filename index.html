@@ -58,8 +58,7 @@ sitemap:
 								</header>
 								<a href="#" class="image main"><img src="{{ "/images/Family.png" | absolute_url }}" alt="" /></a>
                 <p>Text buble..</p>
-                <p>test buble 2 ...
-								</p>
+                <p>Text buble..</p>
 							</article>
 
 						<!-- Posts -->
@@ -74,17 +73,9 @@ sitemap:
   									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  										<li><a href="{{ post.url | absolute_url }}" class="button">See the recipe</a></li>
   									</ul>
   								</article>
-                  {% if mod3 == 0 %}
-                  <article>
-  									<header>
-  										<h2><a href="#">Sponsored</a></h2>
-  									</header>
-
-  								</article>
-                  {% endif %}
                 {% endfor %}
 
 							</section>
