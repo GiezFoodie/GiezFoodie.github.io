@@ -24,4 +24,4 @@ My wife and I moved to France from London with our five young children in 1994. 
 
 <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
 
-Adn especially PJ!
+And especially PJ!

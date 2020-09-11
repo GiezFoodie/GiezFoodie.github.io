@@ -1,7 +1,13 @@
 # Site
+<<<<<<< HEAD
 title:              Dads blog
 bio:                'jibraich'
 description:        "blablabla"
+=======
+title:              Pitta pepper feta
+bio:                'Forced to cook for my greedy family, I thought to make it interesting.'
+description:        "Recipe website for my family so they stop pestering me."
+>>>>>>> 23da91fdaaafd96c139c9cb586b744e80eed7942
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -11,15 +17,21 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            
+facebook:           
+instagram:          
+github:             GiezFoodie
 
 # personal
+<<<<<<< HEAD
 location:           205 route de vegy
 phone:              xxx-xxx-xxxx
 email:              piano@wanadoo.fr # change this to your email to receive free emails for your contact submissions via Slapform.com
+=======
+location:           Somewhere in Giez
+phone:              up to you
+email:              vickyinfrance@gmail.fr # change this to your email to receive free emails for your contact submissions via Slapform.com
+>>>>>>> 23da91fdaaafd96c139c9cb586b744e80eed7942
 
 # Other
 background_image:   /images/bg.jpg

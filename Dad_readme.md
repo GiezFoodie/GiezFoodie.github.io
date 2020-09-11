@@ -35,3 +35,7 @@ The third line might ask your for username and password, however we sent up a ss
 ## main home page:
 > index.html
 Just find and replace!
+
+## configuration (such as title, etc)
+> _config.yml
+(the only file where, if you modify it, you have to relaunch the 'bundle exec' command line!)
