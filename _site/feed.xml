@@ -1,19 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-11T19:15:34+01:00</updated><id>http://localhost:4000/</id><title type="html">Pitta pepper feta</title><subtitle>Recipe website for my family so they stop pestering me.</subtitle><entry><title type="html">My first recipe</title><link href="http://localhost:4000/blog/Fruity_brunch/" rel="alternate" type="text/html" title="My first recipe" /><published>2020-06-06T00:00:00+02:00</published><updated>2020-06-06T00:00:00+02:00</updated><id>http://localhost:4000/blog/Fruity_brunch</id><content type="html" xml:base="http://localhost:4000/blog/Fruity_brunch/">&lt;p&gt;This recipe was duper duper.&lt;/p&gt;</content><summary type="html">This a fruity brunch</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/pic02.jpg" /></entry><entry><title type="html">Welcome to Massively: The Jekyll Theme!</title><link href="http://localhost:4000/blog/Open-face-purple-potato-pie/" rel="alternate" type="text/html" title="Welcome to Massively: The Jekyll Theme!" /><published>2017-10-31T00:00:00+01:00</published><updated>2017-10-31T00:00:00+01:00</updated><id>http://localhost:4000/blog/Open-face-purple-potato-pie</id><content type="html" xml:base="http://localhost:4000/blog/Open-face-purple-potato-pie/"></content><summary type="html">Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/pic02.jpg" /></entry><entry><title type="html">Welcome to Massively: The Jekyll Theme!</title><link href="http://localhost:4000/blog/welcome-to-massively-the-jekyll-theme/" rel="alternate" type="text/html" title="Welcome to Massively: The Jekyll Theme!" /><published>2017-10-31T00:00:00+01:00</published><updated>2017-10-31T00:00:00+01:00</updated><id>http://localhost:4000/blog/welcome-to-massively-the-jekyll-theme</id><content type="html" xml:base="http://localhost:4000/blog/welcome-to-massively-the-jekyll-theme/">&lt;h2 id=&quot;how-to-use-this-theme&quot;&gt;How to Use This Theme&lt;/h2&gt;
-&lt;p&gt;Just go ahead and read up on &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;how to install Jekyll&lt;/a&gt;. It’s not too hard I promise!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-11T12:09:01+02:00</updated><id>http://localhost:4000/</id><title type="html">Pitta pepper feta</title><subtitle>Recipe website for my family so they stop pestering me.</subtitle><entry><title type="html">Potato Dauphinoise</title><link href="http://localhost:4000/blog/potato_dauphinoise/" rel="alternate" type="text/html" title="Potato Dauphinoise" /><published>2020-09-11T00:00:00+02:00</published><updated>2020-09-11T00:00:00+02:00</updated><id>http://localhost:4000/blog/potato_dauphinoise</id><content type="html" xml:base="http://localhost:4000/blog/potato_dauphinoise/">&lt;h1 id=&quot;potato-dauphinoise&quot;&gt;Potato Dauphinoise&lt;/h1&gt;
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;1kg potatoes&lt;/li&gt;
+  &lt;li&gt;4 garlic cloves&lt;/li&gt;
+  &lt;li&gt;30g butter&lt;/li&gt;
+  &lt;li&gt;300 ml cream 30%&lt;/li&gt;
+  &lt;li&gt;Salt&lt;/li&gt;
+  &lt;li&gt;Pepper&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Download this repository &lt;a href=&quot;https://github.com/iwiedenm/jekyll-theme-massively&quot;&gt;here&lt;/a&gt; and save it to any folder you want.&lt;/p&gt;
+&lt;h1 id=&quot;method&quot;&gt;Method&lt;/h1&gt;
 
-&lt;p&gt;Open a terminal window or a command line and &lt;code class=&quot;highlighter-rouge&quot;&gt;cd&lt;/code&gt; to that location.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pre heat the oven to 160°C.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Peel and thinly slice the potatoes into thin 2-3mm discs&lt;/li&gt;
+  &lt;li&gt;Spread the butter over the sides and base of on oven casserole (with fingers)&lt;/li&gt;
+  &lt;li&gt;Mince the garlic and sprinkle over the bottom&lt;/li&gt;
+  &lt;li&gt;Arrange a  layer of potatoes&lt;/li&gt;
+  &lt;li&gt;Generously season with salt and pepper&lt;/li&gt;
+  &lt;li&gt;Cover with another layer of potatoes&lt;/li&gt;
+  &lt;li&gt;Repeat seasoning and covering for layers 2,3 and 4&lt;/li&gt;
+  &lt;li&gt;Pour the cream all over the potatoes making sure they are all covered&lt;/li&gt;
+  &lt;li&gt;Place in the oven for 1h30, or until the top is brown and crispy.&lt;/li&gt;
+&lt;/ul&gt;</content><summary type="html">The softest and most garlic flavoured gratin in the Dauphinois land.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/potato_gratin.jpeg" /></entry><entry><title type="html">Pork tenderloin with couscous</title><link href="http://localhost:4000/blog/pork_tenderloin_with_couscous/" rel="alternate" type="text/html" title="Pork tenderloin with couscous" /><published>2020-09-11T00:00:00+02:00</published><updated>2020-09-11T00:00:00+02:00</updated><id>http://localhost:4000/blog/pork_tenderloin_with_couscous</id><content type="html" xml:base="http://localhost:4000/blog/pork_tenderloin_with_couscous/">&lt;p&gt;Don’t know would like to know.&lt;/p&gt;</content><summary type="html">Yes, I know my way around Turkey.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/pork_tenderloin_with_couscous.jpeg" /></entry><entry><title type="html">Beetroot risotto</title><link href="http://localhost:4000/blog/beetroot_risotto/" rel="alternate" type="text/html" title="Beetroot risotto" /><published>2020-09-11T00:00:00+02:00</published><updated>2020-09-11T00:00:00+02:00</updated><id>http://localhost:4000/blog/beetroot_risotto</id><content type="html" xml:base="http://localhost:4000/blog/beetroot_risotto/">&lt;h1 id=&quot;beetroot-risotto&quot;&gt;Beetroot Risotto&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;For 4 portions&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;Then enter: &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;. You can now access your new Jekyll site from &lt;a href=&quot;http://127.0.0.1:4000/&quot;&gt;http://127.0.0.1:4000/&lt;/a&gt;. Have fun exploring your new site!&lt;/p&gt;
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
-&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
-&lt;h3 id=&quot;auto-generating-sitemap&quot;&gt;Auto-Generating Sitemap&lt;/h3&gt;
-&lt;p&gt;The sitemap is auto generated! Just simply change the front matter of each site. It looks like so…&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h3 id=&quot;formspring-integration&quot;&gt;Formspring integration&lt;/h3&gt;
-&lt;p&gt;The contact form below each page on the footer actually collects information! Just change your email address in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file!&lt;/p&gt;</content><summary type="html">Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/pic02.jpg" /></entry></feed>
+&lt;ul&gt;
+  &lt;li&gt;500g beetroots cooked&lt;/li&gt;
+  &lt;li&gt;1 litre water&lt;/li&gt;
+  &lt;li&gt;2 chicken stock cubes&lt;/li&gt;
+  &lt;li&gt;1 onion, finely chopped&lt;/li&gt;
+  &lt;li&gt;2 cloves garlic, minced&lt;/li&gt;
+  &lt;li&gt;300g rice for risotto&lt;/li&gt;
+  &lt;li&gt;120g red wine&lt;/li&gt;
+  &lt;li&gt;3 tbls olive oil&lt;/li&gt;
+  &lt;li&gt;2 tbls fresh thyme, only the leaves (or 1tbls dried)&lt;/li&gt;
+  &lt;li&gt;lemon juice, of 1 lemon&lt;/li&gt;
+  &lt;li&gt;lemon zest, of 1 lemon&lt;/li&gt;
+  &lt;li&gt;3 tablespoons butter&lt;/li&gt;
+  &lt;li&gt;1 pinch granulated sugar&lt;/li&gt;
+  &lt;li&gt;3/4 tsp salt&lt;/li&gt;
+  &lt;li&gt;1/4 tsp pepper&lt;/li&gt;
+  &lt;li&gt;75g Parmesan cheese&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;method&quot;&gt;Method&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Place a deep pot over a medium heat; add 1 litre of water and 2 chicken bouillon cubes and heat until the cubes dissolve completely.&lt;/li&gt;
+  &lt;li&gt;Reserve the juices from the boiled beetroots&lt;/li&gt;
+  &lt;li&gt;Beat ½ of the beetroots with a ladleful of warm broth in a food processor, until the mixture is completely smooth.&lt;/li&gt;
+  &lt;li&gt;Add the beetroot puree to the broth in the pot.&lt;/li&gt;
+  &lt;li&gt;Turn off the heat.&lt;/li&gt;
+  &lt;li&gt;Cut the remaining beetroots into cubes and transfer to a bowl.&lt;/li&gt;
+  &lt;li&gt;Place a deep pot over medium to high heat. Add 3 tablespoons of olive oil.&lt;/li&gt;
+  &lt;li&gt;Finely chop the onion and add them to the pot along with some finely chopped thyme leaves. Stir with a wooden spoon.&lt;/li&gt;
+  &lt;li&gt;Add salt, pepper and a pinch of sugar. Stir often until the onion caramelizes, making sure it doesn’t stick to the pot.&lt;/li&gt;
+  &lt;li&gt;Add the rice. Sauté while stirring, until it becomes slightly translucent. As soon as it does, add the red wine and stir until it reduces and all of the alcohol has evaporated.&lt;/li&gt;
+  &lt;li&gt;Lower the heat and add 2 spoonfuls of stock. Stir continuously, careful not to let the rice stick to the bottom of the pot.&lt;/li&gt;
+  &lt;li&gt;As soon as the risotto has soaked up all of the moisture, add another spoonful of stock.&lt;/li&gt;
+  &lt;li&gt;Repeat this process until all of the broth has been added and the rice is ready.&lt;/li&gt;
+  &lt;li&gt;It is better if the rice is a little al dente and not completely boiled.&lt;/li&gt;
+  &lt;li&gt;Remove from heat and add butter, grated parmesan and lemon juice and lemon zest.&lt;/li&gt;
+  &lt;li&gt;Stir until the risotto is nice and creamy.&lt;/li&gt;
+  &lt;li&gt;Add the beetroot cubes and gently combine&lt;/li&gt;
+&lt;/ul&gt;</content><summary type="html">Give me a ricy beet.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/beetroot_rissotto.jpeg" /></entry><entry><title type="html">Treacle sponge pudding</title><link href="http://localhost:4000/blog/Treacle_pudding/" rel="alternate" type="text/html" title="Treacle sponge pudding" /><published>2020-09-11T00:00:00+02:00</published><updated>2020-09-11T00:00:00+02:00</updated><id>http://localhost:4000/blog/Treacle_pudding</id><content type="html" xml:base="http://localhost:4000/blog/Treacle_pudding/">&lt;p&gt;You should add this recipe.&lt;/p&gt;</content><summary type="html">I know what has to be done, but if only someone wrote it down...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/potato_gratin.jpeg" /></entry><entry><title type="html">Soft pretzals</title><link href="http://localhost:4000/blog/Soft_prezels/" rel="alternate" type="text/html" title="Soft pretzals" /><published>2020-09-11T00:00:00+02:00</published><updated>2020-09-11T00:00:00+02:00</updated><id>http://localhost:4000/blog/Soft_prezels</id><content type="html" xml:base="http://localhost:4000/blog/Soft_prezels/">&lt;p&gt;Don’t know would like to know.&lt;/p&gt;</content><summary type="html">Being a sailerman, I'm used to my knots.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/soft_pretzals.jpeg" /></entry><entry><title type="html">Selection of home made pizza</title><link href="http://localhost:4000/blog/Homemade_pizza/" rel="alternate" type="text/html" title="Selection of home made pizza" /><published>2020-09-11T00:00:00+02:00</published><updated>2020-09-11T00:00:00+02:00</updated><id>http://localhost:4000/blog/Homemade_pizza</id><content type="html" xml:base="http://localhost:4000/blog/Homemade_pizza/">&lt;p&gt;I could explain, but I doubt you would believe me…&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;graaaappppessss….&lt;/em&gt;.&lt;/p&gt;</content><summary type="html">Homemade is always better, you can join the dark side...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/pizza_selections.jpeg" /></entry><entry><title type="html">Halloumi chicken</title><link href="http://localhost:4000/blog/Halloumi_chicken/" rel="alternate" type="text/html" title="Halloumi chicken" /><published>2020-09-11T00:00:00+02:00</published><updated>2020-09-11T00:00:00+02:00</updated><id>http://localhost:4000/blog/Halloumi_chicken</id><content type="html" xml:base="http://localhost:4000/blog/Halloumi_chicken/">&lt;p&gt;Like cheese?&lt;/p&gt;</content><summary type="html">Hail cheese chicken!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/halloumi_chicken.jpeg" /></entry><entry><title type="html">Choco cupackes</title><link href="http://localhost:4000/blog/Choco_cupcakes/" rel="alternate" type="text/html" title="Choco cupackes" /><published>2020-09-11T00:00:00+02:00</published><updated>2020-09-11T00:00:00+02:00</updated><id>http://localhost:4000/blog/Choco_cupcakes</id><content type="html" xml:base="http://localhost:4000/blog/Choco_cupcakes/">&lt;p&gt;I don’t know the recipe.. Magic.&lt;/p&gt;</content><summary type="html">Chocolate cupcakes with somebad icing, careful about diabetes.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/choco_cupcakes.jpeg" /></entry><entry><title type="html">Fruity granola brunch</title><link href="http://localhost:4000/blog/Fruity_brunch/" rel="alternate" type="text/html" title="Fruity granola brunch" /><published>2020-06-06T00:00:00+02:00</published><updated>2020-06-06T00:00:00+02:00</updated><id>http://localhost:4000/blog/Fruity_brunch</id><content type="html" xml:base="http://localhost:4000/blog/Fruity_brunch/">&lt;p&gt;A fruity brunch, the granola is homemade and the strawberries were plucked from the garden.&lt;/p&gt;
+
+&lt;p&gt;This recipe was duper duper.&lt;/p&gt;</content><summary type="html">This a fruity brunch</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/granola.jpeg" /></entry><entry><title type="html">Welcome to Massively: The Jekyll Theme!</title><link href="http://localhost:4000/blog/Open-face-purple-potato-pie/" rel="alternate" type="text/html" title="Welcome to Massively: The Jekyll Theme!" /><published>2017-10-31T00:00:00+01:00</published><updated>2017-10-31T00:00:00+01:00</updated><id>http://localhost:4000/blog/Open-face-purple-potato-pie</id><content type="html" xml:base="http://localhost:4000/blog/Open-face-purple-potato-pie/"></content><summary type="html">Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/pic02.jpg" /></entry></feed>
