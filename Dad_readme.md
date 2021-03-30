@@ -13,7 +13,8 @@ And finally to get in the folder from the command line:
 
 From within the folder:
 > bundle install
-
+> bundle update
+To start the server use the following line:
 > bundle exec jekyll serve
 
 If you see anyerror in the second line please say, it should end up running a website on http://127.0.0.1:4000/ .
@@ -21,6 +22,7 @@ If you see anyerror in the second line please say, it should end up running a we
 You can now visit that page in your browser.
 
 # Updating your website on the remote server
+Once you are happy with the modification get a terminal and lets update the file locally (which is going to be the "commit" (which is like save my files locally with git) qnd then "push" which is the remote save).
 - git add *files* (or . for all)
 > git add .
 

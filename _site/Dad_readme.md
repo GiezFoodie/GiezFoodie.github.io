@@ -13,7 +13,8 @@ And finally to get in the folder from the command line:
 
 From within the folder:
 > bundle install
-
+> bundle update
+To start the server use the following line:
 > bundle exec jekyll serve
 
 If you see anyerror in the second line please say, it should end up running a website on http://127.0.0.1:4000/ .
