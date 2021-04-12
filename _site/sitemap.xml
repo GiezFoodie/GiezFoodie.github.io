@@ -2,7 +2,70 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>/blog/Recipe_in_the_making/</loc>
+      <loc>/blog/F18_imam-bayildi/</loc>
+      
+        <lastmod>2021-04-12T00:00:00+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/F17_butter_chicken_curry/</loc>
+      
+        <lastmod>2021-04-12T00:00:00+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/F16_burgers/</loc>
+      
+        <lastmod>2021-04-12T00:00:00+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/F14_strawberry_chocolate_mousse/</loc>
+      
+        <lastmod>2021-04-12T00:00:00+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/F13_caramel_almond_tartlette/</loc>
+      
+        <lastmod>2021-04-12T00:00:00+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/F12_eggs_florentine/</loc>
+      
+        <lastmod>2021-04-12T00:00:00+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/F10_purple_potato_tart/</loc>
+      
+        <lastmod>2021-04-03T00:00:00+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>/blog/F15_meze_trilogy/</loc>
       
         <lastmod>2021-03-29T00:00:00+02:00</lastmod>
       
@@ -11,7 +74,7 @@
     </url>
   
     <url>
-      <loc>/blog/orange_cakes/</loc>
+      <loc>/blog/F07_orange_cakes/</loc>
       
         <lastmod>2020-11-11T00:00:00+01:00</lastmod>
       
@@ -20,7 +83,7 @@
     </url>
   
     <url>
-      <loc>/blog/potato_dauphinoise/</loc>
+      <loc>/blog/F11_chili_con_carne/</loc>
       
         <lastmod>2020-09-11T00:00:00+02:00</lastmod>
       
@@ -29,7 +92,7 @@
     </url>
   
     <url>
-      <loc>/blog/pork_tenderloin_with_couscous/</loc>
+      <loc>/blog/F09_Soft_prezels/</loc>
       
         <lastmod>2020-09-11T00:00:00+02:00</lastmod>
       
@@ -38,7 +101,7 @@
     </url>
   
     <url>
-      <loc>/blog/beetroot_risotto/</loc>
+      <loc>/blog/F08_pork_tenderloin_with_couscous/</loc>
       
         <lastmod>2020-09-11T00:00:00+02:00</lastmod>
       
@@ -47,7 +110,7 @@
     </url>
   
     <url>
-      <loc>/blog/Treacle_pudding/</loc>
+      <loc>/blog/F06_beetroot_risotto/</loc>
       
         <lastmod>2020-09-11T00:00:00+02:00</lastmod>
       
@@ -56,7 +119,7 @@
     </url>
   
     <url>
-      <loc>/blog/Soft_prezels/</loc>
+      <loc>/blog/F05_Halloumi_chicken/</loc>
       
         <lastmod>2020-09-11T00:00:00+02:00</lastmod>
       
@@ -65,7 +128,7 @@
     </url>
   
     <url>
-      <loc>/blog/Homemade_pizza/</loc>
+      <loc>/blog/F04_choco_cupcakes/</loc>
       
         <lastmod>2020-09-11T00:00:00+02:00</lastmod>
       
@@ -74,7 +137,7 @@
     </url>
   
     <url>
-      <loc>/blog/Halloumi_chicken/</loc>
+      <loc>/blog/F03_potato_dauphinoise/</loc>
       
         <lastmod>2020-09-11T00:00:00+02:00</lastmod>
       
@@ -83,7 +146,7 @@
     </url>
   
     <url>
-      <loc>/blog/Choco_cupcakes/</loc>
+      <loc>/blog/F02_Homemade_pizza/</loc>
       
         <lastmod>2020-09-11T00:00:00+02:00</lastmod>
       
@@ -92,7 +155,7 @@
     </url>
   
     <url>
-      <loc>/blog/Fruity_brunch/</loc>
+      <loc>/blog/F01_Fruity_brunch/</loc>
       
         <lastmod>2020-06-06T00:00:00+02:00</lastmod>
       
@@ -100,24 +163,16 @@
       <priority>0.7</priority>
     </url>
   
-    <url>
-      <loc>/blog/Open-face-purple-potato-pie/</loc>
-      
-        <lastmod>2017-10-31T00:00:00+01:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
   
     <url>
-      <loc>/blog/welcome-to-massively-the-jekyll-theme/</loc>
+      <loc>/Posts_2017-10-31-welcome-to-massively-the-jekyll-theme/</loc>
+       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
-        <lastmod>2017-10-31T00:00:00+01:00</lastmod>
+       <changefreq>weekly</changefreq>
       
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
+       <priority>0.5</priority>
+      
+     </url>
   
     <url>
       <loc>/about/</loc>
